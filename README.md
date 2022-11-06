@@ -13,7 +13,7 @@ String-Quotter is a handy stand-alone tool to add quotes to SQL queries. Simply 
 Download the String-Quotter.exe from [\bin\Release](https://raw.githubusercontent.com/sanjujosh/String-Quotter/master/LifeIsMiserable/bin/Release/String-Quotter.exe) folder 
 
 ### What you get
-![Image of String-Quotter](https://imgur.com/BidhPCc)
+![Image of String-Quotter](https://i.imgur.com/BidhPCc.png)
 
 Input Varchar:
 ```
