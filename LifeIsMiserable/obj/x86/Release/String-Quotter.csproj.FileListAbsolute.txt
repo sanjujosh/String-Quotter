@@ -1,8 +1,0 @@
-C:\Users\Me\Documents\Visual Studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\bin\Release\String-Quotter.exe
-C:\Users\Me\Documents\Visual Studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\bin\Release\String-Quotter.pdb
-C:\Users\Me\Documents\Visual Studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Release\String-Quotter.csprojResolveAssemblyReference.cache
-C:\Users\Me\Documents\Visual Studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Release\LifeIsMiserable.Form1.resources
-C:\Users\Me\Documents\Visual Studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Release\LifeIsMiserable.Properties.Resources.resources
-C:\Users\Me\Documents\Visual Studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Release\String-Quotter.csproj.GenerateResource.Cache
-C:\Users\Me\Documents\Visual Studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Release\String-Quotter.exe
-C:\Users\Me\Documents\Visual Studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Release\String-Quotter.pdb

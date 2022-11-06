@@ -1,7 +1,0 @@
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\bin\Debug\LifeIsMiserable.exe
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\bin\Debug\LifeIsMiserable.pdb
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Debug\LifeIsMiserable.Form1.resources
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Debug\LifeIsMiserable.Properties.Resources.resources
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Debug\LifeIsMiserable.csproj.GenerateResource.Cache
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Debug\LifeIsMiserable.exe
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Debug\LifeIsMiserable.pdb

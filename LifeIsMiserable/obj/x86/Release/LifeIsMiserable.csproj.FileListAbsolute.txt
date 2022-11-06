@@ -1,8 +1,0 @@
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\bin\Release\LifeIsMiserable.exe
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\bin\Release\LifeIsMiserable.pdb
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Release\LifeIsMiserable.Form1.resources
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Release\LifeIsMiserable.Properties.Resources.resources
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Release\LifeIsMiserable.csproj.GenerateResource.Cache
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Release\LifeIsMiserable.exe
-c:\users\me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Release\LifeIsMiserable.pdb
-C:\Users\Me\documents\visual studio 2010\Projects\LifeIsMiserable\LifeIsMiserable\obj\x86\Release\LifeIsMiserable.csprojResolveAssemblyReference.cache
