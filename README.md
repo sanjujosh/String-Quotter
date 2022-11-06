@@ -10,7 +10,7 @@ String-Quotter is a handy stand-alone tool to add quotes to SQL queries. Simply 
 
 ### Installation
 
-Download the String-Quotter.exe from [\bin\Release](https://raw.githubusercontent.com/sanjujosh/String-Quotter/master/LifeIsMiserable/bin/Release/String-Quotter.exe) folder 
+ [Download the String-Quotter](https://github.com/sanjujosh/String-Quotter/releases/download/v0.2/String-Quotter.exe) and run. No need to install it, it's portable software. Probably added it to the PATH for quick access.
 
 ### What you get
 ![Image of String-Quotter](https://i.imgur.com/BidhPCc.png)
